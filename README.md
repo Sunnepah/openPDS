@@ -31,7 +31,7 @@ cd pdsEnv
 source bin/activate   
 
 # get the latest openPDS code
-git clone https://github.com/HumanDynamics/openPDS.git
+git clone https://github.com/Sunnepah/openPDS.git
 cd openPDS
 
 # install openPDS and its requirements
