@@ -35,7 +35,6 @@ git clone https://github.com/HumanDynamics/openPDS.git
 cd openPDS
 
 # install openPDS and its requirements
-NOTE: change pymongo to pymongo==2.8 in requirements.txt
 pip install -r requirements.txt
 
 # set up and run your local openPDS
